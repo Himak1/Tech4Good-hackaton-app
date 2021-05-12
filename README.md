@@ -1,5 +1,5 @@
 # DuraFlip
-Team 43 Huggers repository
+Team 43 Huggers
 - Jay Bart Cornellis
 - Tessa Clement
 - Danila Kocob
