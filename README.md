@@ -1,5 +1,9 @@
 # DuraFlip
 Team 43 Huggers repository
+- Jay Bart Cornellis
+- Tessa Clement
+- Danila Kocob
+- Justin Hille
 
 # Goal
 Entice homeowners to make their home sustainable / durable. Follow up action.
