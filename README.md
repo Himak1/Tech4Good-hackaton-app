@@ -20,7 +20,7 @@ For the average consumer it is currently too difficult to invest in sustainable 
 We have an interactive proof of concept, to showcase the user experience. 
 
 ## The Backend
-DuraFlip would make use of the BAG Kadaster API. This allows us to receive basic information abou the building, while the user only needs to give their address. This streamlines the process and keeps users more focused on thef end goal.
+DuraFlip would make use of the BAG Kadaster API. This allows us to receive basic information abou the building, while the user only needs to give their address. This streamlines the process and keeps users more focused on the end goal.
 
 ## Contents
 The repository contains an artists impression of our concept app. And a python script which demonstrates how the backend of the app would function.
