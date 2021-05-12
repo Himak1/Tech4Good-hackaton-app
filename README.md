@@ -20,3 +20,6 @@ Here is the link to our interactive [Proof of Concept](https://www.figma.com/pro
 
 ## The Backend
 DuraFlip would make use of the BAG Kadaster API. This allows us to receive basic information abou the building, while the user only needs to give their address. This streamlines the process and keeps users more focused on the end goal.
+
+# Miro Mindmap
+https://miro.com/app/board/o9J_lFc1rf0=/
