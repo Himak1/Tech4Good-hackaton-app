@@ -13,7 +13,7 @@ Streamline intake, at the same time maximize (quality of) data.
 * Smart use of linked datasets (API's) to speed up the questionaire.
 * Inform the curious with lots of detailed information.
 * Interesting but clear app design.
-* Insightfull report, 
+* Insightfull report.
 
 ## The Concept
 Here is the link to our interactive [Proof of Concept](https://www.figma.com/proto/13UF5Wjw2FdFIdcFhjeKZb/EnergyShift?node-id=0%3A2&scaling=scale-down&page-id=0%3A1), to showcase the user experience.
