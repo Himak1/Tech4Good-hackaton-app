@@ -10,9 +10,9 @@ Entice homeowners to make their home sustainable / durable. Follow up action.
 Streamline intake, at the same time maximize (quality of) data.
 
 # Features
-* Smart use of linked datasets (API's) to speed up (autofill) questionaire.
-* Inform the curious with lots of detailed (technical) information. Educate.
-* Interesting but clear app design, (catagories?).
+* Smart use of linked datasets (API's) to speed up the questionaire.
+* Inform the curious with lots of detailed information.
+* Interesting but clear app design.
 * Insightfull report, 
 
 ## The Concept
